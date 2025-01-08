@@ -30,4 +30,4 @@ Dataset is stored in the json file (intents.json).
 chatbot_gui.py is a file which will open a GUI prompt where user can talk with chatbot and interact with it.
 
 # Contributions
-Thanks to Kartikeya Sisodia for helping with the project
+Thanks to Kartikeya Sisodia for helping with the project.
